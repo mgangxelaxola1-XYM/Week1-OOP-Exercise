@@ -1,0 +1,15 @@
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\bin\Debug\net9.0\Week1_OOP_Exercise.exe
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\bin\Debug\net9.0\Week1_OOP_Exercise.deps.json
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\bin\Debug\net9.0\Week1_OOP_Exercise.runtimeconfig.json
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\bin\Debug\net9.0\Week1_OOP_Exercise.dll
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\bin\Debug\net9.0\Week1_OOP_Exercise.pdb
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\Week1_OOP_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\Week1_OOP_Exercise.AssemblyInfoInputs.cache
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\Week1_OOP_Exercise.AssemblyInfo.cs
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\Week1_OOP_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\Week1_OOP_Exercise.sourcelink.json
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\Week1_OOP_Exercise.dll
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\refint\Week1_OOP_Exercise.dll
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\Week1_OOP_Exercise.pdb
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\Week1_OOP_Exercise.genruntimeconfig.cache
+C:\Users\Xola\Source\Repos\Week1-OOP-Exercise\Week1_OOP_Exercise\obj\Debug\net9.0\ref\Week1_OOP_Exercise.dll
